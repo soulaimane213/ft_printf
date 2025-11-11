@@ -5,8 +5,8 @@
 
 int main(){
 
-	
-	printf("%%");
+	int s =0;
+	printf("%p" , &s);
 
 
 
